@@ -8,4 +8,7 @@ public class Livro {
 	public void devolver() {}
 	
 	
+	private String numPag;
+	private String autor;
 }
+
